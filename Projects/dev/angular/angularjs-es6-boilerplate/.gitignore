@@ -1,0 +1,5 @@
+.idea
+dev-notes.md
+/dist/
+/node_modules/
+/sandbox/
